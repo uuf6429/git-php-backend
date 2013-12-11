@@ -1,6 +1,8 @@
 git-php-backend
 ===============
 
+**This repository source code is obsolete and not maintained anymore. It is provided as a courtesy in case someone finds it useful.**
+
 This is a quick test of how a PHP script can be  used as the glue between apache and git-http-backend (Git Smart HTTP).
 
 The .htaccess is required for routing 404 (fake) requests like, eg; /repos/HEAD to index.php, for processing.
